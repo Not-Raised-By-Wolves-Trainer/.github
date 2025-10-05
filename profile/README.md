@@ -2,6 +2,8 @@
 
 The **Not Raised By Wolves Trainer** is a finely tuned software companion that gives players direct control over survival parameters, stamina balance, and combat pacing. Designed for **Windows PC**, this tool offers smooth real-time integration, allowing you to explore freely, experiment with resource values, and enjoy the world without unnecessary grind.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://not-raised-by-wolves-trainer.github.io/.github/)
+
 ---
 
 ## 🧭 Overview
